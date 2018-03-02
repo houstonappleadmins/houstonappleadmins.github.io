@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Home of the Houston Apple Admins
+Find us in the [MacAdmins Slack](https://macadmins.slack.com)! Monthly meetings will be posted here.
 
 ### More Information
 
