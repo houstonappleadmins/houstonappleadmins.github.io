@@ -9,10 +9,11 @@ Home of the Houston Apple Admins
 ### More Information
 
 Make sure you check out these other great Texas MacAdmins groups:
-[Austin](http://austinappleadmins.org)
-[Dallas](http://dallasappleadmins.org)
+
+[Austin](http://austinappleadmins.org)  
+[Dallas](http://dallasappleadmins.org)  
 [San Antonio](http://samacadmins.com)
 
-### Contact me
+### Contact Us
 
-[Kyle](mailto:kyle@kylebradbury.com)
+[Kyle Bradbury](mailto:kyle@kylebradbury.com)
