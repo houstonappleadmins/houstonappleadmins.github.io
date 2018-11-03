@@ -15,7 +15,7 @@ Daniel Hope will be presenting on [DEPNotify](https://gitlab.com/Mactroll/DEPNot
 
 Parking information will be provided soon and should be similar to the last meetup.
 
-Join us in the #houston channel on the [MacAdmins Slack](https://macadmins.org) if you have any questions or just to say hello.
+Join us in the #houston channel on the [MacAdmins Slack](http://macadmins.org) if you have any questions or just to say hello.
 
 We hope to see you there!
 
