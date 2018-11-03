@@ -11,7 +11,7 @@ Thanks to [ChaiOne](https://chaione.com/about/ "ChaiOne") and [Kyle Bradbury](ht
 
 Pizza and soda will be provided by JAMF. You can RSVP at [JAMF Nation](https://www.jamf.com/jamf-nation/events/user-groups/240/houston-apple-admins-november-meet-up).
 
-Daniel Hope will be presenting on [DEPNotify](https://gitlab.com/Mactroll/DEPNotify) and the agenda is always wide opening for anyone who would like to show off their latest project.
+Daniel Hope will be presenting on [DEPNotify](https://gitlab.com/Mactroll/DEPNotify) and the agenda is always wide open for anyone who would like to show off their latest project.
 
 Parking information will be provided soon and should be similar to the last meetup.
 
