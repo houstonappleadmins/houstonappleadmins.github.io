@@ -13,7 +13,7 @@ Pizza and soda will be provided by JAMF. You can RSVP at [JAMF Nation](https://w
 
 Daniel Hope will be presenting on [DEPNotify](https://gitlab.com/Mactroll/DEPNotify) and the agenda is always wide open for anyone who would like to show off their latest project.
 
-Parking information will be provided soon and should be similar to the last meetup.
+Parking at the [Houston City Club Garage](https://goo.gl/maps/AgDxPcNMFH42) will be validated for the event.
 
 Join us in the #houston channel on the [MacAdmins Slack](http://macadmins.org) if you have any questions or just to say hello.
 
