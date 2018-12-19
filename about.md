@@ -16,5 +16,5 @@ Make sure you check out these other great Texas MacAdmins groups:
 
 ### Contact Us
 
-[Kyle Bradbury](mailto:kyle@kylebradbury.com)  
+[Kyle Bradbury](mailto:kyle@kylebradbury.net)  
 [Kevin M. Cox](mailto:houstonappleadmins@kevincox.com)
