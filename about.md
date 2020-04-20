@@ -8,7 +8,7 @@ Find us in the [MacAdmins Slack](https://macadmins.slack.com)! Monthly meetings 
 
 ### More Information
 
-Make sure you check out these other great Texas MacAdmins groups:
+Make sure you check out these other great groups in the Texas Apple Admins network:
 
 [Austin](http://austinappleadmins.org)  
 [Dallas](http://dallasappleadmins.org)  
