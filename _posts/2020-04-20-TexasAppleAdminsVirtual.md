@@ -9,11 +9,13 @@ Join us and other members in the Texas Apple Admins Network for a statewide virt
 
 We are looking for volunteers to give presentations on any relavant topic. Reach out to me or let us know in the **#texas** channel of the [MacAdmins Slack](https://www.macadmins.org) if you have anything you'd like to present.
 
-**Tentative Lineup:** (will be updated as more speakers volunteer)
+**Speakers:** (updated 4/21 @ 2:35 p.m.)
 
-* [Steve Wood](https://www.linkedin.com/in/steve2504/), Dallas: Will serve as MC to keep things flowing
+* [Steve Wood](https://geekygordo.com), Dallas: Will serve as MC to keep things flowing
 * [Anna Mentzer](https://www.linkedin.com/in/annamentzer/), Austin: Introduction, new Field Sales Engineer for Jamf Software
-* [Kevin M. Cox](https://www.linkedin.com/in/kevincox/), Houston: Upcoming changes to how Munki handles Apple Software Updates
+* [Kevin M. Cox](https://www.kevinmcox.com/), Houston: Upcoming changes to how Munki handles Apple Software Updates
+* [Graham R. Pugh](https://grahamrpugh.com), Switzerland: Multiple uses for [erase-install](https://github.com/grahampugh/erase-install)
+* [Armin Briegel](https://scriptingosx.com), Netherlands: Topic TBD
 * You?
 
 **When**: Tuesday, May 5, 2020 from 12:00 to 1:00 p.m.
