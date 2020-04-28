@@ -22,7 +22,7 @@ We are looking for volunteers to give presentations on any relavant topic. Reach
 
 **Where**: In order to control potential disruptions, the WebEx link will be sent to registered participants.
 
-**Register**: https://www.eventbrite.com/e/texas-apple-admins-virtual-meetup-tickets-103709321372
+**Register**: [https://www.eventbrite.com/e/texas-apple-admins-virtual-meetup-tickets-103709321372](https://www.eventbrite.com/e/texas-apple-admins-virtual-meetup-tickets-103709321372)
 
 We hope you can participate!
 
