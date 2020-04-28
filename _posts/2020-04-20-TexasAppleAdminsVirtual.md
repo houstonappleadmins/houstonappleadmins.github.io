@@ -20,7 +20,9 @@ We are looking for volunteers to give presentations on any relavant topic. Reach
 
 **When**: Tuesday, May 5, 2020 from 12:00 to 1:00 p.m.
 
-**Where**: Virtual meetup connection details to come
+**Where**: In order to control potential disruptions, the WebEx link will be sent to registered participants.
+
+**Register**: https://www.eventbrite.com/e/texas-apple-admins-virtual-meetup-tickets-103709321372
 
 We hope you can participate!
 
