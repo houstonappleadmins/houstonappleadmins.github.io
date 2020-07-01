@@ -12,7 +12,7 @@ We are looking for volunteers to give presentations on any relavant topic. Reach
 **Speakers:** (list will be updated as people are confirmed)
 
 * [Steve Wood](https://geekygordo.com), Dallas: Will serve as MC to keep things flowing
-* [Adam Segar](https://geekygordo.com), Addigy (vendor): Live features you didn’t know were possible!
+* [Adam Segar](https://addigy.com), Addigy (vendor): Live features you didn’t know were possible!
 * [Erik Gomez](https://blog.eriknicolasgomez.com), Austin: Nudge'ing users to update their Macs
 * YOU?
 
