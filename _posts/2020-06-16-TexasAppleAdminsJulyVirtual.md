@@ -14,7 +14,8 @@ We are looking for volunteers to give presentations on any relavant topic. Reach
 * [Steve Wood](https://geekygordo.com), Dallas: Will serve as MC to keep things flowing
 * [Adam Segar](https://addigy.com), Addigy (vendor): Live features you didn’t know were possible!
 * [Erik Gomez](https://blog.eriknicolasgomez.com), Austin: Nudge'ing users to update their Macs
-* YOU?
+* [Anna Mentzer](https://www.linkedin.com/in/annamentzer/), Austin: Introduction, new Field Sales Engineer for Jamf Software
+* Plus a surprise mystery guest!
 
 **When**: Tuesday, July 14, 2020 from 12:00 to 1:00 p.m.
 
