@@ -11,7 +11,10 @@ We are looking for volunteers to give presentations on any relavant topic. Reach
 
 **Speakers:** (list will be updated as people are confirmed)
 
-* Coming Soon!
+* [Steve Wood](https://geekygordo.com), Dallas: Will serve as MC to keep things flowing
+* [Erik Gomez](https://blog.eriknicolasgomez.com), Austin: Nudge'ing users to update their Macs, now with Swift!
+* [Graham R. Pugh](https://grahamrpugh.com), Switzerland: AutoPkg and YAML recipes
+* More Coming Soon!
 
 **When**: Tuesday, March 30, 2021 from 12:00 to 1:00 p.m.
 
