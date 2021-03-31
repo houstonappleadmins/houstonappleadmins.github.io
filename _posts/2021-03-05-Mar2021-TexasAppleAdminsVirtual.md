@@ -13,7 +13,7 @@ We are looking for volunteers to give presentations on any relavant topic. Reach
 
 * [Steve Wood](https://geekygordo.com), Dallas: Will serve as MC to keep things flowing
 * [Erik Gomez](https://blog.eriknicolasgomez.com), Austin: Nudge'ing users to update their Macs, now with Swift! [[Slides]](https://blog.eriknicolasgomez.com/media/pdf/nudge_swift_texas_macadmins_03_2021.pdf), [[Lego video]](https://www.youtube.com/watch?v=hhetHevnoWI)
-* [Graham R. Pugh](https://grahamrpugh.com), Switzerland: AutoPkg and YAML recipes
+* [Graham R. Pugh](https://grahamrpugh.com), Switzerland: AutoPkg and YAML recipes - [[Slides]](https://grahamrpugh.com/assets/documents/TAA_2021_AutoPkg_YAML.pdf), [[Recording]](https://www.youtube.com/watch?v=hDb5LGiDAR0)
 
 **When**: Tuesday, March 30, 2021 from 12:00 to 1:00 p.m.
 
