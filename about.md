@@ -16,5 +16,5 @@ Make sure you check out these other great groups in the Texas Apple Admins netwo
 
 ### Contact Us
 
-[Kyle Bradbury](mailto:kyle@kylebradbury.net)  
+[Kyle Bradbury](https://computer.rodeo/)  
 [Kevin M. Cox](mailto:houstonappleadmins@kevincox.com)
